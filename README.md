@@ -30,3 +30,13 @@ Limit is a simple yet powerful To-Do application that helps you manage your task
    ```bash
    git clone https://github.com/yourusername/limit-todo-app.git
    cd limit-todo-app
+2 Install the dependencies:
+npm install
+# or
+yarn install
+3. Start the development server:
+npm start
+# or
+yarn start
+
+The app should now be running at http://localhost:3000.
